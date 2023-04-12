@@ -50,7 +50,7 @@ The project features a smart list that allows users to view, search, edit, add, 
 - Search and sort list using 'MaterialReactTable'.
 
 ## Screenshots
-
+![admin-dashboard](/admin-dashboard.png)
 ## Setup
 
 To run the project, you need to have the following installed on your system:
