@@ -69,10 +69,9 @@ public class initService extends Services {
 
         if (companyRepo.count() == 0) {
             Company company = new Company("TestCompany", "Company@company.com", "company");
-
+            companies.add(company);
             for (int i = 0; i < companyNames.length; i++) {
                 Company newCompany = new Company(companyNames[i], getDomain(companyNames[i]), getRandomPassword());
-                companies.add(company);
                 companies.add(newCompany);
             }
 
