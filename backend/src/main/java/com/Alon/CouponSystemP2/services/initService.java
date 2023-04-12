@@ -36,7 +36,7 @@ public class initService extends Services {
     private static final String[] EMAIL_DOMAINS = {"gmail.com", "yahoo.com", "hotmail.com", "outlook.com"};
     private static final String[] FIRST_NAMES = {"Emma", "Liam", "Olivia", "Noah", "Ava", "Ethan", "Sophia", "Logan", "Isabella", "Mia"};
     private static final String[] LAST_NAMES = {"Smith", "Johnson", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez", "Lee"};
-    private static final String[] companyNames = {"TestCompany", "Acme Inc", "Globex Corporation", "Initech", "Wayne Enterprises", "Stark Industries", "Soylent Corporation", "Wonka Industries", "Dunder Mifflin", "Prestige Worldwide", "Strickland Propane", "Soviet Corporation", "Aperture Science", "Oscorp Industries", "Weyland-Yutani Corporation", "Tyrell Corporation", "Cyberdyne Systems", "Umbrella Corporation", "Nakatomi Corporation", "Monarch Sciences", "Jurassic Park"};
+    private static final String[] companyNames = {"Acme Inc", "Globex Corporation", "Initech", "Wayne Enterprises", "Stark Industries", "Soylent Corporation", "Wonka Industries", "Dunder Mifflin", "Prestige Worldwide", "Strickland Propane", "Soviet Corporation", "Aperture Science", "Oscorp Industries", "Weyland-Yutani Corporation", "Tyrell Corporation", "Cyberdyne Systems", "Umbrella Corporation", "Nakatomi Corporation", "Monarch Sciences", "Jurassic Park"};
     private static final Random random = new Random();
     int randomNumber = random.nextInt(10) + 1;
     @Autowired
