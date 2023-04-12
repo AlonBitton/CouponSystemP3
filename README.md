@@ -51,6 +51,7 @@ The project features a smart list that allows users to view, search, edit, add, 
 
 ## Screenshots
 ![admin-dashboard](/admin-dashboard.png)
+![customer-dashboard](/customer-dashboard.png)
 ## Setup
 
 To run the project, you need to have the following installed on your system:
