@@ -84,7 +84,7 @@ public class initService extends Services {
 
         if (couponRepo.count() == 0) {
 
-            int bound = companies.size();
+            int bound = companies.size() + 1;
             Coupon coupon1 = new Coupon(0, (random.nextInt(bound)), Category.Electricity, "Samsung Galaxy S21", "Get the latest Samsung Galaxy S21 with a 10% discount",
                     LocalDate.now().plusDays(random.nextInt(randomNumber)), LocalDate.now().plusWeeks(randomNumber), 50, 1999.99, "");
 
