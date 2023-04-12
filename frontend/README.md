@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [Project summary](#summary)
+- [Project summary](#project-summary)
 - [Technologies used](#technologies-used)
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -80,18 +80,14 @@ To run the project, you need to have the following installed on your system:
 
 ## Credentials
 
-Login Credentials for Admin:
+Login Credentials for Admin: ` Email: admin@admin.com
+Password: admin `
 
-' Email: admin@admin.com
-Password: admin '
+Company: ` Email: Company@company.com
+Password: company `
 
-Company:
-' Email: company@company.com
-Password: company '
-
-Customer:
-' Email: Customer@customer.com
-Password: customer '
+Customer: ` Email: Customer@customer.com
+Password: customer `
 
 ## Room for Improvement
 
