@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [Project summary](#summary)
+- [Project summary](#project-summary)
 - [Technologies used](#technologies-used)
 - [Features](#features)
 - [Screenshots](#screenshots)
