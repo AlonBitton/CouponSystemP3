@@ -82,16 +82,16 @@ To run the project, you need to have the following installed on your system:
 
 Login Credentials for Admin:
 
-' Email: admin@admin.com
-Password: admin '
+` Email: admin@admin.com
+Password: admin `
 
 Company:
-' Email: company@company.com
-Password: company '
+` Email: company@company.com
+Password: company `
 
 Customer:
-' Email: Customer@customer.com
-Password: customer '
+` Email: Customer@customer.com
+Password: customer `
 
 ## Room for Improvement
 
