@@ -68,7 +68,7 @@ To run the project, you need to have the following installed on your system:
 2. Install the dependencies:
 
 - `cd front-end`
-- `npm install`
+- `npm install --legacy-peer-deps`
 
 3. Start the front-end:
 
